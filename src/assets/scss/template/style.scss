@@ -1,0 +1,122 @@
+// 
+
+.img-logo {
+    margin-left: auto;
+    margin-right: auto;
+}
+.img-w100 {
+    display: block;
+    width: 100%;
+}
+
+.message {
+    padding: 16px;
+    background-color: #efefef;
+}
+.bg {
+    background-color: #efefef;
+}
+.card {
+    width: 90%;
+    padding: 16px;
+    margin: 0 auto;
+    background-color: #efefef;
+}
+
+.social {
+    width: 30px;
+}
+
+// para que funcione la imagen de avatar hay q poner esta propiedad en la imagen de prefenencia embebido
+// img {
+//     max-width: none;
+// }
+.img-avatar {
+    // display: block;
+    position: relative!important;
+    overflow: hidden;
+    border-radius: 50%; 
+    width: 40px;
+    height: 40px;
+}
+.img-avatar-xs {
+    width: 40px;
+    height: 40px;
+}
+.img-avatar-sm {
+    width: 60px;
+    height: 60px;
+}
+.img-avatar-md {
+    width: 80px;
+    height: 80px;
+}
+.img-avatar img {
+    // display: block;
+    position: absolute!important;
+    left: 50%!important;
+    top: 50%!important;
+    height: 100%!important;
+    width: auto!important;
+    max-width: auto!important;
+    -webkit-transform: translate(-50%, -50%)!important;
+    transform: translate(-50%, -50%)!important;
+}
+
+hr.hr {
+    border: 0;
+    height: 1px;
+    background: #bfbfbf;
+    background-image: linear-gradient(to right, #efefef, #333, #efefef);
+}
+.px-16 {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px; 
+    @media only screen and (max-width: 596px) {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+.m-0 {
+    margin: 0;
+}
+.text-truncate {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap; 
+}
+ul.list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-left: 48px;
+    @media only screen and (max-width: 596px) {
+        padding-left: 16px;
+    }
+}
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+.mb-0 {
+    margin-bottom: 0;
+}
+table.container {
+    width: 580px;
+    max-width: 580px;
+}
+.hide-sm-down {
+    display: inline;
+    @media only screen and (max-width: 596px) {
+        display: none;
+    } 
+}
+.text-notification {
+    text-align: right;
+    @media only screen and (max-width: 596px) {
+        text-align: left;
+    } 
+}

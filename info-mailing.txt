@@ -1,0 +1,34 @@
+rapj810327@gmail.com, rapj810327@hotmail.es
+
+ruta de svg de los mailing 4 principales 
+/home/josimar/Documentos/documentos_Juan/mailing/mailing
+
+${url}
+${userName}
+
+colores
+#2b75e0 azul
+#f8255e rosa
+#efefef gris(bg)
+#7e7e7e gris(font footer) 
+
+font
+Lato regular bold 700 900
+
+redes sociales
+https://www.facebook.com/WorkITMexico/
+http://www.twitter.com/workitmex/
+https://www.linkedin.com/company/18269676/
+
+imagenes
+https://www.workitjob.com/workit-web/assets/images/mailing_png/workitjob.png
+https://www.workitjob.com/workit-web/assets/images/mailing_png/facebook.png
+https://www.workitjob.com/workit-web/assets/images/mailing_png/twitter.png
+https://www.workitjob.com/workit-web/assets/images/mailing_png/linkedin.png
+https://www.workitjob.com/workit-web/assets/images/mailing_png/inbox.png
+https://www.workitjob.com/workit-web/assets/images/userx.png
+
+links
+https://www.workitjob.com/workit-web/view/tmpl/public/home/privacity.jsp
+https://www.workitjob.com/workit-web/view/tmpl/public/home/login.jsp
+
